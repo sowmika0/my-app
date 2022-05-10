@@ -2,7 +2,7 @@ package in.javahome.myweb.controller;
 /*
  * 
  */
-public class Calculator {
+public class Calculat {
 	/*
 	 * @param i
 	 * @param j
